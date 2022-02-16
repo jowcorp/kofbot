@@ -1,0 +1,15 @@
+# eclipse metadata
+.classpath  
+.editorconfig  
+.factorypath  
+.gitattributes  
+.project  
+.settings/  
+bin/  
+
+# maven project
+.mvn/  
+target/
+
+# heroku
+.env
